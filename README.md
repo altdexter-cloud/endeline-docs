@@ -106,9 +106,8 @@
 ## ✉️ Контакты
 
 - **Сайт:** [endeline.ru](https://endeline.ru)
-- **Email:** [alt.dexter@gmail.com]  
-- **Telegram / Дзен:** [endeline Дзен](https://dzen.ru/endeline)
-
+- **Email:** [alt.dexter@gmail.com](mailto:alt.dexter@gmail.com)
+- **Дзен:** [dzen.ru/endeline](https://dzen.ru/endeline)
 ---
 
 ## ⚠️ Отказ от ответственности
