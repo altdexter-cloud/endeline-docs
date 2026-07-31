@@ -107,7 +107,7 @@
 
 - **Сайт:** [endeline.ru](https://endeline.ru)
 - **Email:** [alt.dexter@gmail.com]  
-- **Telegram / Дзен:** https://dzen.ru/endeline
+- **Telegram / Дзен:** [https://dzen.ru/endeline]
 
 ---
 
